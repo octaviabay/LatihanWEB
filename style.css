@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+h1{
+    font-size: 100px;
+    color: brown;
+}
+
+p{
+    font-size: 50px;
+    font-style: italic;
+}
